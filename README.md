@@ -18,5 +18,8 @@
 - Custom templates
 - Ajax login form
 
-Root: `/wp-plugin-dev/wp-content/plugins/custom-plugin/`
+### Setup:
 
+1. Go to root: `/wp-plugin-dev/wp-content/plugins/custom-plugin/`
+2. Run `composer install`
+2. Run `npm install`
